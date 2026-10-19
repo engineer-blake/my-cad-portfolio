@@ -6,7 +6,7 @@ Mechanical design and drafting work across **Autodesk Inventor**, **FreeCAD** an
 |---|---------|----------|-------|
 | 1 | [Bench vise assembly](#1-bench-vise-assembly-inventor) | Autodesk Inventor | STEP |
 | 2 | [Parametric mounting bracket](#2-parametric-mounting-bracket-freecad) | FreeCAD | FCStd, STEP |
-| 3 | [Fabrication cell layout](#3-fabrication-cell-layout-autocad) | AutoCAD | DWG |
+| 3 | [Fabrication cell layout](#3-fabrication-cell-layout-autocad) | AutoCAD | DXF |
 
 > Modelled from a reference design. The 3D models, parametric setup and layout drafting are my own work in each tool.
 
@@ -58,6 +58,6 @@ An 8 × 6 m workshop for producing the vise, drawn at 1:40 on A3.
 
 ## Contact
 
-**Michael Blakely**: [blakelymike08@GMAIL.COM] ·
+**Michael Blakely**: [blakelymike08@gmail.com] ·
 
 Open to mechanical design, CAD and engineering roles, including remote and part-time work.
